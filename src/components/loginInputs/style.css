@@ -1,0 +1,26 @@
+.input-page_login-body_inputs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.input-page_login{
+    width: 350px;
+    height: 30px;
+    border-radius: 15px;
+    padding: 5px 15px;
+    background-color: #98B9F2;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    margin: 15px;
+}
+.input-page_button{
+    width: 150px;
+    height: 50px;
+    font-size: 16px;
+    border: none;
+    background-color: #918EF4;
+    border-radius: 15px;
+    color: #fff;
+    cursor: pointer;
+}

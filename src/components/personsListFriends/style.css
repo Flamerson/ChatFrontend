@@ -1,0 +1,34 @@
+.person-main{
+    width: 365px;
+    min-height: 90vh;
+    max-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    list-style: none;
+    border-right:1px solid #e7e7e7;
+}
+
+.person{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #e7e7e7;
+    margin: 5px 15px;
+}
+.btn-person{
+    width: 330px;
+    display: flex;
+    cursor: pointer;
+}
+
+.person-picture{
+    width: 50px;
+    height: 50px;
+    background-color: #c3c3c3;
+    border-radius: 25px;
+    margin: 5px;
+}
+.person-name_message{
+    padding-left: 15px;
+    padding-top: 10px;
+}

@@ -1,0 +1,30 @@
+.message-body_chat{
+    width: 100%;
+    max-height: 80vh;
+    list-style: none;
+    overflow:auto;
+}
+.people{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.visitor{
+    width: 100%;
+    display: flex;
+    text-align: flex-start;
+}
+.men{
+    max-width: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 15px;
+    background-color: #98B9F2;
+    border-radius: 15px;
+    margin: 15px;
+}
+.menssage-name{
+    font-weight: 700;
+    padding-bottom: 5px;
+}

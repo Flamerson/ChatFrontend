@@ -1,0 +1,12 @@
+.navbarListFriends{
+    width: 350px;
+    height: 50px;
+    background-color: #6F9CEB;
+    box-shadow: 1px 1px 5px #f3f3f3;
+    border-right: 1px solid #e7e7e7;
+    border-bottom: 2px solid #e7e7e7;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    color: #fff;
+}
